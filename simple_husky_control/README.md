@@ -5,6 +5,11 @@
 >launch a *gazebo* simulation of an empty world and a husky robot + *rviz*.
 You can control the robot with your keyboard.
 
+## Usage:
+```
+ roslaunch simple_husky_control gazebo.launch
+```
+
 According the official documentation:
 ```
 Reading from the keyboard  and Publishing to Twist!
