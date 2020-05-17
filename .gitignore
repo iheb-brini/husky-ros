@@ -1,3 +1,7 @@
+#dev packages:
+python_package_template
+#husky_laserscan
+
 devel/
 logs/
 build/
