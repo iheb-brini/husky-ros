@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/flaref/Projects/ROS/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/flaref/Projects/ROS/catkin_ws/src/beginner_tutorials/include/**",
+        "/home/flaref/Projects/ROS/catkin_ws/src/husky/husky_base/include/**",
+        "/home/flaref/Projects/ROS/catkin_ws/src/husky_highlevel_controller/include/**",
+        "/home/flaref/Projects/ROS/catkin_ws/src/python_template_package/include/**",
+        "/home/flaref/Projects/ROS/catkin_ws/src/ros_package_template/include/**",
+        "/home/flaref/Projects/ROS/catkin_ws/src/sandbox/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}
